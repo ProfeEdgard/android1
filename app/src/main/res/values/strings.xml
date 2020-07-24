@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclobike Dos Punto Cero</string>
+    <string name="boton_invertir">Invertir</string>
+    <string name="boton_filtrar">Filtrar</string>
+</resources>
